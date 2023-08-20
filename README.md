@@ -2,7 +2,7 @@
 
 Practicing competitive programming. Here you will find some algorithms, tips and learning stuff
 
-### 🚥 [driversNeedToStopHere](driversNeedToStopHere)
+### 🚥 [driversNeedToStopHere](https://github.com/julianasantiago100/ProgrammingTechniques/blob/main/driversNeedToStopHere.cpp)
 
 This algorithm is from the following free online course lesson: <https://neps.academy/br/course/tecnicas-de-programacao-(codcad)/lesson/algoritmo-guloso>
 
