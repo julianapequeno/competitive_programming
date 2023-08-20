@@ -4,7 +4,7 @@ Practicing competitive programming. Here you will find some algorithms, tips and
 
 ### 🚥 [driversNeedToStopHere](driversNeedToStopHere)
 
-This algorithm is from the following online free course lesson: <https://neps.academy/br/course/tecnicas-de-programacao-(codcad)/lesson/algoritmo-guloso>
+This algorithm is from the following free online course lesson: <https://neps.academy/br/course/tecnicas-de-programacao-(codcad)/lesson/algoritmo-guloso>
 
 In this code, I could notice some new and interesting information about c++ and programming tips. Let me show you below:
 
