@@ -16,3 +16,14 @@
 ### Practice-Recursion - VJUGDE - 04/08/24
 - A (solved): [The 3n+1 problem](https://www.ime.usp.br/~mane/collatz.html)
 - B (solved): [Summing Digits](https://vjudge.net/problem/UVA-11332)
+
+
+### Command lines 
+```
+./a | tail 
+./b | header -n2
+./c < ent.txt
+```
+
+### Notes
+-  Backtracking requires a small number, due to its complexity.
